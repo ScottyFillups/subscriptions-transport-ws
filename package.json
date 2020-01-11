@@ -1,6 +1,6 @@
 {
   "name": "@scottyfillups/subscriptions-transport-ws",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A websocket transport for GraphQL subscriptions",
   "main": "dist/index.js",
   "browser": "dist/client.js",
